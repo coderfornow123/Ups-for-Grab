@@ -5,7 +5,7 @@ Just fork it and add a `'Hello World'` program to contribute for hacktober fest 
 
 ### Get yourself free goodies by just writing a hello world!
 
-Say hi to the world in any language of your choice!
+Say hi to the world in any language of your choice and rejoice!
 
 # What is Hacktoberfest?
 
