@@ -21,9 +21,9 @@ https://hacktoberfest.digitalocean.com/
 
 ### 2. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/shivaylamba/Hacktoberfest/).
+You can get your own fork/copy of [Hacktoberfest](https://github.com/coderfornow123/Ups-for-Grab) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/coderfornow123/Ups-for-Grab).
 
-[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/shivaylamba/Hacktoberfest)
+[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/coderfornow123/Ups-for-Grab)
 
 ### 3. Add a Program in any Language you like :rabbit2:
 
@@ -33,7 +33,7 @@ You can take a look to the [Programming Language List](https://en.wikipedia.org/
 ### 4. Ready, Steady, Go... :turtle: :rabbit2:
 
 Once you have completed these steps, you are ready to start contributing
-by checking our `Help Wanted` issues and creating [pull requests](https://github.com/shivaylamba/Hacktoberfest/pulls).
+by checking our `Help Wanted` issues and creating [pull requests](https://github.com/coderfornow123/Ups-for-Grab/pulls).
 
 ### 5. Give this Project a Star :star:
 
