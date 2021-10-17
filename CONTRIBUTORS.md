@@ -17,3 +17,8 @@
  - Place: Bengaluru, India
  - Bio: Software Engineer.
  - GitHub: [karjasmin](https://github.com/karjasmin)
+
+#### Name: Piyush  
+ - Place: India
+ - Bio: Student.
+ - GitHub: [piyush4for](https://github.com/piyush4for)
