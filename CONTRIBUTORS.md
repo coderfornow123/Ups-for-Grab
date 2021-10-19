@@ -1,3 +1,8 @@
+#### Name: Mohammad Modassir Iqbal
+ - Place: Bihar, India
+ - Bio: Student of Computer Science
+ - GitHub: [MOHAMMADMODASSIR] (https://github.com/MOHAMMADMODASSIR)
+
 #### Name: Poorvi Gupta
  - Place: India
  - Bio: Student.
@@ -22,3 +27,8 @@
  - Place: India
  - Bio: Student.
  - GitHub: [piyush4for](https://github.com/piyush4for)
+
+#### Name: Pankaj
+ - Place: India
+ - Bio: Student
+ - Github: [pankaj892](https://github.com/pankaj892)
