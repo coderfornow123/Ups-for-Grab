@@ -285,3 +285,7 @@ Uber open source project info
 A blazing fast & offline web playground in your browser.
 
 ### 11. [Initial Project](https://github.com/alwibastomi/ProjekAwal)
+
+### 28. [Web Maker](https://github.com/CSSEGISandData/COVID-19)
+
+This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)
